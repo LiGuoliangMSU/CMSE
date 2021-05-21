@@ -12,7 +12,7 @@ This python based code works along with the SPECFEM3D_Cartesian code package and
  
  One file: Example file contains data used to demonstrate how to use the python based codes
 
-# demonstrations on how to use those Python based code
+# Demonstrations on how to use those Python based code
 
 In each python based code, there is a detailed examplantion about the functions of each parameters. For example, in GEN_interface.py script, you can file the following contents: 
 
