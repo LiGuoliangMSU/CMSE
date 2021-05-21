@@ -7,6 +7,7 @@ This python based code works along with the SPECFEM3D_Cartesian code package and
 
 # Explaination on how to use those Python based code
 1.''' 
+
     ./GEN_interface.py -T topography.txt -O interface.dat     or 
 2.  ./GEN_interface.py -T topography.txt -I 24.4km.interface.txt -O interface.dat
 3.  '''
