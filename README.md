@@ -5,6 +5,8 @@ This new meshing tool CMSE is compatible with the solver of SPECFEM3D_Cartesian 
 
 This python based code works along with the SPECFEM3D_Cartesian code package and you can go to link https://geodynamics.org/cig/software/specfem3d/ to download the Fortran based code pacakge. 
 
-Structure of this 
-
-![Uploading image.png…]()
+# Explaination on how to use those Python based code
+1.''' 
+    ./GEN_interface.py -T topography.txt -O interface.dat     or 
+2.  ./GEN_interface.py -T topography.txt -I 24.4km.interface.txt -O interface.dat
+3.  '''
