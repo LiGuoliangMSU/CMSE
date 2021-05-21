@@ -3,5 +3,8 @@
 
 This new meshing tool CMSE is compatible with the solver of SPECFEM3D_Cartesian code package (https://geodynamics.org/cig/software/specfem3d/). As proved in our SRL manuscript, it combines the flexibility of the Cartesian mesh, which makes the solver more computationally efficient, and the accuracy of global mesh, which is more accurate in wave simulations on regional scale, including in polar regions.
 
-# This python based code works along with the SPECFEM3D_Cartesian code package and you can go to link https://geodynamics.org/cig/software/specfem3d/ to download the Fortran based code pacakge. 
+This python based code works along with the SPECFEM3D_Cartesian code package and you can go to link https://geodynamics.org/cig/software/specfem3d/ to download the Fortran based code pacakge. 
 
+Structure of this 
+
+![Uploading image.png…]()
