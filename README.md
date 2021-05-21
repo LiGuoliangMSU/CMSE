@@ -53,7 +53,8 @@ python ../GEN_source_recever.py -T topography.txt -F forcesolution.txt -O FORCES
 
 4. Rotate the simulated waveforms from local x-y-z coordinate to geodetic coordinate
 ```
-python ../RotateZYX2UNE.py -A rotate.lst -I station.lst -O Output
+cd ./Roate_example
+python ../../RotateZYX2UNE.py -A rotate.lst -I station.lst -O Output
 ```
 
 # Acknowledgements
