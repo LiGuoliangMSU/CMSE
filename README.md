@@ -55,3 +55,6 @@ python ../GEN_source_recever.py -T topography.txt -F forcesolution.txt -O FORCES
 ```
 python ../RotateZYX2UNE.py -A rotate.lst -I station.lst -O Output
 ```
+
+# Acknowledgements
+We thank the Institute for Cyber-Enabled Research (ICER) at Michigan State University, the Extreme Science and Engineering Discovery Environment (XSEDE supported by NSF grant ACI-1053575) for providing the high-performance computing resources. This research is supported by NSF Grant 1942431 and startup funds of Min Chen at Michigan State University. Additionally, co-author RM was supported by NSF-EAR postdoctoral followship # 1806412.
